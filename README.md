@@ -201,3 +201,12 @@ python IOU.py
 | 32           | toast                 | 0.967  |
 | 33           | sausage               | 0.922  |
 | 34           | fried_egg             | 0.969  |
+
+
+## 🤗Acknowledgement
+
+This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
+
+- [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)
+- [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)
+- [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
